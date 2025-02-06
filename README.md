@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aaron Paatela
 - 🌱 I’m currently a student at Minnesota State University, Mankato. 
-- 📫 How to reach me: aaron.paatela@go.minnstate.edu
+- 📫 How to reach me: eh3375tx@go.minnstate.edu
 - 😄 Pronouns: he/him
 
 <!---
